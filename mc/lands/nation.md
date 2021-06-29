@@ -1,8 +1,6 @@
 # Starting a Nation
 
 What is a nation you say? Well, a nation is basically a collection of more than one Lands. Think of a nation as the U.S., and the Lands being the 50 states.
- 
-## Starting a Nation
 Starting a nation is simple, just run the following command: `/n create <name>`
  
 ## Trusting Lands
