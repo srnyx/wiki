@@ -12,7 +12,7 @@ Once the declaration of war is sent, a specific amount of time will start counti
 
 ## War
 
-So, once the war starts, both parties will be able to break/place certain blocks. These blocks are vines, ladders, and scaffolding. Both parties are able to kill in each other's land, and loot containers.
+So, once the war starts, both parties will be able to break/place certain blocks. These blocks are vines, ladders, and scaffolding. Both parties are able to kill in each other's Land (Land**s** if it's a Nation war) and loot containers.
 
 ## End of War
 
