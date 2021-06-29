@@ -2,6 +2,7 @@
 
 What is a nation you say? Well, a nation is basically a collection of more than one Lands. Think of a nation as the U.S., and the Lands being the 50 states.
 Starting a nation is simple, just run the following command: `/n create <name>`
+{% hint style="warning" %} It costs $10,000 to create a Nation (2x more than a Land). {% endhint %}
  
 ## Trusting Lands
 Now that you have a nation, you want to add more lands to it!
