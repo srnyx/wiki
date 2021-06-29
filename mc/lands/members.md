@@ -2,11 +2,7 @@
 
 ## Trusting Players
 
-If you want another play to be able to do stuff in your land, you need to **trust** them. Run this command: 
-
-```text
-/l trust <player> [area or * for whole land]
-```
+If you want another play to be able to do stuff in your land, you need to **trust** them. Run this command: `/l trust  [area or * for whole land]`
 
 {% hint style="info" %}
 If you want to untrust a player, run this command: `/l untrust <player> [area or * for whole land]`
