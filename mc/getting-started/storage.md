@@ -86,10 +86,10 @@ The Wireless Terminal will allow you to access Deep Storage Units from anywhere 
 
 The Wireless Terminal requires you to also craft a Wireless Receiver, see below for the Wireless Receiver recipe:
 
-![1 Eye of Ender, 1 Quartz, 2 Iron Ingots, 1 Diamond](../../.gitbook/assets/wirelessreceiver.PNG)
+![1 Eye of Ender, 1 Quartz, 2 Iron Ingots, 1 Diamond](../../.gitbook/assets/wirelessreceiver.png)
 
 The Wireless Terminal recipe is shown below (you **need** to have 32 redstone blocks [total of 64]):
 
-![1 Wireless Receiver, 64 Redstone Blocks, 1 Diamond Block, 2 Diamonds, 1 Quartz](../../.gitbook/assets/wirelessterminal.PNG)
+![1 Wireless Receiver, 64 Redstone Blocks, 1 Diamond Block, 2 Diamonds, 1 Quartz](../../.gitbook/assets/wirelessterminal.png)
 
 {% hint style="info" %} Only **VIPs** can use Wireless Terminals. Become a VIP here: https://srnyx.xyz/donate {% endhint %}
