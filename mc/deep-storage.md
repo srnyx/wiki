@@ -22,9 +22,9 @@ Once you've downloaded it, move it into your resourcepacks folder and enable it.
 {% hint style="success" %} To see if it's working, do `/crapi book`, if you see the custom textures, you did it! If you see stone axes/shovels, please open a ticket in #support. {% endhint %}
 
 ## Getting Started
-First off, you'll need to get yourself quite a bit of the following materials: Quartz, Iron, Diamonds, Redstone, and Glass.
+First off, you'll need to get yourself quite a bit of the following materials: Quartz, Iron, Diamonds, Redstone, Glass, and Emeralds.
 
-Next, you'll need to make a **Special Crafting** table. The recipe for it is below.
+Next, you'll need to make a **Special Crafting Table**. The recipe for it is below.
 
 ![4 Iron Blocks, 4 Glass, 1 Diamond Block](../.gitbook/assets/deepstoragecraftingtablerecipe.PNG)
 
@@ -37,8 +37,8 @@ The next thing you'll need to make is a **Deep Storage Loader**. The recipe is s
 
 Next, you'll want to get an **empty** double chest, and right-click the chest with the **Deep Storage Loader**.
 
-Now, you need to make a **Storage Cell**. Storage cells are what power the chests to hold so many items. The base one holds 1,000 of the same item.
-The recipe for it is shown below.
+Now, you need to make a **Storage Cell**. Storage cells are used to craft **Storage Containers**, which are used to determine how many items a unit can hold.
+The recipe for the smallest storage cell is shown below.
 
 ![4 Redstone, 4 Quartz, 1 Gold](../.gitbook/assets/storagecell1krecipe.PNG)
 
