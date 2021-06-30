@@ -3,6 +3,24 @@
 ## What is it?
 The Deep Storage plugin is a mod much like the popular mod **Applied Energistics**. It allows for mass storage in one single chest, along with allowing wireless access via the wireless control.
 
+## Resourcepack
+When joining the server you'll be asked to use a resourcepack, this is **not** required!
+It's only to give custom textures to the Deep Storage items. If you don't use the resourcepack though, you'll just see stone axes/shovels, but everything will still work.
+
+**Pro Tip #1:**
+If you don't want to use the resourcepack and hate having the prompt show up, you can follow these steps:
+1. Multiplayer
+2. Select the server
+3. Edit it
+4. There is an option under the address bar, change it to Disabled
+
+**Pro Tip #2:**
+If you want to use the resourcepack but hate having it to unload/load it every time you join, you can simply download the resourcepack and have it enabled all the time.
+First, follow the steps in **Pro Tip #1**, then, download the resourcepack here: https://drive.google.com/uc?export=download&id=13ZZzmERLZUb_NVG76BctAWnzVkUr6WLb
+Once you've downloaded it, move it into your resourcepacks folder and enable it.
+
+{% hint style="success" %} To see if it's working, do `/crapi book`, if you see the custom textures, you did it! If you see stone axes/shovels, please open a ticket in #support. {% endhint %}
+
 ## Getting Started
 First off, you'll need to get yourself quite a bit of the following materials: Quartz, Iron, Diamonds, Redstone, and Glass.
 
