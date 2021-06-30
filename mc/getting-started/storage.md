@@ -35,9 +35,7 @@ Next, you'll need to make a **Special Crafting Table**. The recipe for it is bel
 
 ![4 Iron Blocks, 4 Glass, 1 Diamond Block](../../.gitbook/assets/deepstoragecraftingtablerecipe.PNG)
 
-A little expensive, but worth it!
-
-After you craft that, that'll be your new crafting table for all things **Deep Storage**.
+A little expensive, but worth it! After you craft that, that'll be your new crafting table for all things **Deep Storage**.
 
 The next thing you'll need to make is a **Deep Storage Loader**. The recipe is shown below.
 
@@ -64,11 +62,9 @@ Great! Now you have a **Storage Container**.
 
 The final step is to insert the **Storage Container** into the Deep Storage Unit (the chest you right-clicked with the **Deep Storage Loader**).
 
-Your **Deep Storage Unit** should now look like this:
+Your **Deep Storage Unit** should look like this, if it does, you're done:
 
 ![](../../.gitbook/assets/deepstorageunitexample.PNG)
-
-Congratulations, you have successfully created your first **Deep Storage Unit**!
 
 {% hint style="success" %} To know if it's working or not, try putting some blocks in (netherrack, cobblestone, anything you have a lot of)! {% endhint %}
 
