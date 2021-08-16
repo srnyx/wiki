@@ -4,7 +4,7 @@
 
 Surround a regular hopper with 8 redstone dust in a crafting table:
 
-![Elevator motor crafting recipe](../../.gitbook/assets/image.png)
+![8 Redstone Dust + 1 Hopper = Elevator Motor](../../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="danger" %}
 Breaking an elevator with Telepathy \(Crazy Enchant\) will cause it to become a normal hopper.
