@@ -13,7 +13,7 @@ description: Find all the information about my Minecraft server templates
 * [x] Paper-Spigot 1.8.8
 
 {% hint style="warning" %}
-I did not make any of the plugins, mods, or server software in the templates, please see [this page](https://github.com/srnyx/mc-server-templates/wiki#sources) for sources.
+I did not make any of the plugins, mods, or server software in the templates, please see [this page](sources.md) for sources.
 {% endhint %}
 
 ### Downloading the template
@@ -23,7 +23,7 @@ I did not make any of the plugins, mods, or server software in the templates, pl
 3. Extract the `zip`/`tar.gz`
 4. Delete the templates you aren't going to use
 
-![Step 2](../.gitbook/assets/kpt5we7vh9a.png)
+![Step 2](../../.gitbook/assets/kpt5we7vh9a.png)
 
 {% hint style="info" %}
  If you need help, please join my [Discord server](https://srnyx.xyz/discord) and open a ticket via \#support.

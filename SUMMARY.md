@@ -5,7 +5,8 @@
 ## Templates
 
 * [Discord Templates](templates/discord-templates.md)
-* [Minecraft Templates](templates/mc-templates.md)
+* [Minecraft Templates](templates/mc-templates/README.md)
+  * [Sources](templates/mc-templates/sources.md)
 
 ## srnyx's MC Server <a id="mc"></a>
 
