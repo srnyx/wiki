@@ -28,6 +28,7 @@
 
 ## Other Projects
 
+* [Minecraft Modpack](other-projects/minecraft-modpack.md)
 * [Emoji Servers](other-projects/emoji-servers.md)
 * [Servers](other-projects/servers.md)
 
