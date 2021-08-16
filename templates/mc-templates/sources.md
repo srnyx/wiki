@@ -8,10 +8,10 @@ description: >-
 
 ## Primary Sources
 
-* [Mods/plugins](sources.md#mods-plugins)
-* [Fabric](https://fabricmc.net/)
-* [Paper-Spigot](https://papermc.io/)
-* [server.jar](https://www.minecraft.net/) \(Fabric only\)
+* \*\*\*\*[**Mods/plugins**](sources.md#mods-plugins)\*\*\*\*
+* \*\*\*\*[**Fabric**](https://fabricmc.net/)\*\*\*\*
+* \*\*\*\*[**Paper-Spigot**](https://papermc.io/)\*\*\*\*
+* \*\*\*\*[**server.jar**](https://www.minecraft.net/) \(Fabric only\)
 
 ## Mods/Plugins
 

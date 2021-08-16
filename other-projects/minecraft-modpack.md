@@ -4,7 +4,12 @@ description: Information about all the mods in my modpack and what they categori
 
 # Minecraft Modpack
 
-## 1.16 v2.0
+## Table of Contents
+
+* \*\*\*\*[**1.16 v2.0**](minecraft-modpack.md#1-16-v-2-0)\*\*\*\*
+* \*\*\*\*[**1.17 v1.0**](minecraft-modpack.md#1-17-v-1-0)\*\*\*\*
+
+### 1.16 v2.0
 
 * [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement): Although many experienced minecraft players know exactly how to time their clicks in order to rapidly place blocks with no mistakes, why should it be that difficult? In this mod, if you hold your 'use key' \(usually RMB\) and look at a new block it will automatically place it no matter how fast you move. No more need to time when you click or look in order to accurately place blocks quickly! You can set a keybind in the controls menu for switching to and from standard vanilla placing behavior.
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo): This mod checks which requirements you've met and which you haven't, and displays a list of those to the right of the advancement UI. This makes it much easier to find what you have done and what you still need to do.
@@ -64,7 +69,7 @@ description: Information about all the mods in my modpack and what they categori
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib): This Library Mod does all the heavy lifting of making mods developed by myself fully independent of the mod-loader they are running on. This has the advantage that everything needs to be coded only once, thereby speeding up development and maintenance times, and ensuring parity between running the Mod on Forge or on Fabric.
 * [whoami](https://www.curseforge.com/minecraft/mc-mods/whoami): This mod makes it so you can see your nametag.
 
-## 1.17 v1.0
+### 1.17 v1.0
 
 * [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement): Although many experienced minecraft players know exactly how to time their clicks in order to rapidly place blocks with no mistakes, why should it be that difficult? In this mod, if you hold your 'use key' \(usually RMB\) and look at a new block it will automatically place it no matter how fast you move. No more need to time when you click or look in order to accurately place blocks quickly! You can set a keybind in the controls menu for switching to and from standard vanilla placing behavior.
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo): This mod checks which requirements you've met and which you haven't, and displays a list of those to the right of the advancement UI. This makes it much easier to find what you have done and what you still need to do.
