@@ -6,11 +6,11 @@ description: Find all the information about my Minecraft server templates
 
 ### Templates
 
-* [x] Fabric 1.17.1
 * [x] Fabric 1.16.5
-* [ ] Paper-Spigot 1.17.1
-* [x] Paper-Spigot 1.16.5
-* [x] Paper-Spigot 1.8.8
+* [x] Fabric 1.17.1
+* [x] Paper 1.8.8
+* [x] Purpur 1.16.5
+* [ ] Purpur 1.17.1
 
 {% hint style="warning" %}
 I did not make any of the plugins, mods, or server software in the templates, please see [this page](sources.md) for sources.
