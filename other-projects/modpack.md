@@ -6,8 +6,8 @@ description: Information about all the mods in my modpack and what they categori
 
 ## Table of Contents
 
-* \*\*\*\*[**1.16 v2.0**](minecraft-modpack.md#1-16-v-2-0)\*\*\*\*
-* \*\*\*\*[**1.17 v1.0**](minecraft-modpack.md#1-17-v-1-0)\*\*\*\*
+* \*\*\*\*[**1.16 v2.0**](modpack.md#1-16-v-2-0)\*\*\*\*
+* \*\*\*\*[**1.17 v1.0**](modpack.md#1-17-v-1-0)\*\*\*\*
 
 ### 1.16 v2.0
 
