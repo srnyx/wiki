@@ -7,7 +7,7 @@ Enchants and info
     * Trap 1-2: Has chance to give your enemy slowness
     * Rage 1-3: Attacks will get stronger the more you keep fighting
     * Viper 1-3: has a chance to give your enemy poison
-    * Snare 1-3: Has chance to give your enemy slowness and mining fatigur
+    * Snare 1-3: Has chance to give your enemy slowness and mining fatigue
     * Wither 1-3: Has a chance to give your enemy high wither
     * Vampire 1-5: Has a chance to heal you when fighting
     * Execute 1-5: Has a chance to give you strength when your enemy is low on health
