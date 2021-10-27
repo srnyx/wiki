@@ -14,7 +14,7 @@
 * [Emoji Servers](other-projects/emoji-servers.md)
 * [Servers](other-projects/servers.md)
 
-## Links
+<!--## Links
 
 * [Website](https://srnyx.xyz)
-* [Discord](https://srnyx.xyz/discord)
+* [Discord](https://srnyx.xyz/discord)-->
