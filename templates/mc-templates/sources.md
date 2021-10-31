@@ -17,12 +17,12 @@ description: >-
 ## Mods/Plugins
 
 * [**Fabric \(Mods\)**](sources.md#fabric-mods)
-  * [1.17](sources.md#1171)
-  * [1.16.5](sources.md#1165)
+  * [1.17](sources.md#1.17.1)
+  * [1.16.5](sources.md#1.16.5)
 * [**Paper/Purpur \(Plugins\)**](sources.md#paper-purpur-plugins)
-  * [1.17.1](sources.md#1171-1)
-  * [1.16.5](sources.md#1165-1)
-  * [1.8.8](sources.md#188)
+  * [1.17.1](sources.md#1.17.1-1)
+  * [1.16.5](sources.md#1.16.5-1)
+  * [1.8.8](sources.md#1.8.8)
 
 ### Fabric \(Mods\)
 
