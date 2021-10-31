@@ -18,12 +18,14 @@ I did not make any of the plugins, mods, or server software in the templates, pl
 
 ### Downloading the template
 
-1. Go to the[ releases page](https://github.com/srnyx/mc-server-templates/releases) on the GitHub
-2. Download the Source code (`zip` is recommended)
-3. Extract the `zip`/`tar.gz`
-4. Delete the templates you aren't going to use
+1. Go to the [Builds actions page](https://github.com/srnyx/mc-server-templates/actions/workflows/builds.yml) on the GitHub
+2. Click on the latest one (the one at the top), make sure it has a green circle (if it's orange/yellow, wait about a minute. If it's red, [contact srnyx](https://srnyx.xyz/discord))
+3. Scroll down to where it says `Artifacts`
+4. Click on the template you want and wait for it to finish downloading
+5. Find the downloaded ZIP on your computer and extract the files
 
-![Step 2](<../../.gitbook/assets/kpt5we7vh9a.png>)
+![Step 2](<../../.gitbook/assets/actions-latest.png>)
+![Step 3](<../../.gitbook/assets/actions-artifacts.png>)
 
 {% hint style="info" %}
 If you need help, please join my [Discord server](https://srnyx.xyz/discord) and open a ticket via #support.
