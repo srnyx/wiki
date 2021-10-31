@@ -8,9 +8,10 @@ description: >-
 
 ## Primary Sources
 
-* [**Mods/plugins**](sources.md#mods-plugins)
+* [**Mods/Plugins**](sources.md#mods-plugins)
 * [**Fabric**](https://fabricmc.net/)
-* [**Paper-Spigot**](https://papermc.io/)
+* [**PaperMC**](https://papermc.io/)
+* [**Purpur**](https://purpur.pl3x.net/) 
 * [**server.jar**](https://www.minecraft.net/) \(Fabric only\)
 
 ## Mods/Plugins
