@@ -70,7 +70,7 @@ description: >-
 * [**Starlight**](https://github.com/Spottedleaf/Starlight)**:** Better light engine
 * \*\*\*\*[**World Specific View Distance**](https://modrinth.com/mod/worldspecificviewdistance)**:** Set a specific view distance per world
 
-### Paper-Spigot \(Plugins\)
+### Paper/Purpur \(Plugins\)
 
 #### 1.16.5
 
