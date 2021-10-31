@@ -16,16 +16,17 @@ description: >-
 
 ## Mods/Plugins
 
-* [**Fabric \(Mods\)**](https://github.com/srnyx/mc-server-templates/wiki/Mods-&-Plugins#fabric-mods)
-  * [1.17](https://github.com/srnyx/mc-server-templates/wiki/Mods-&-Plugins#117)
-  * [1.16.5](https://github.com/srnyx/mc-server-templates/wiki/Mods-&-Plugins#1165)
-* [**Paper-Spigot \(Plugins\)**](https://github.com/srnyx/mc-server-templates/wiki/Mods-&-Plugins#paper-spigot-plugins)
-  * [1.16.5](https://github.com/srnyx/mc-server-templates/wiki/Mods-&-Plugins#1165-1)
-  * [1.8.8](https://github.com/srnyx/mc-server-templates/wiki/Mods-&-Plugins#188)
+* [**Fabric \(Mods\)**](sources.md#fabric-mods)
+  * [1.17](sources.md#1171)
+  * [1.16.5](sources.md#1165)
+* [**Paper/Purpur \(Plugins\)**](sources.md#paper-purpur-plugins)
+  * [1.17.1](sources.md#1171-1)
+  * [1.16.5](sources.md#1165-1)
+  * [1.8.8](sources.md#188)
 
 ### Fabric \(Mods\)
 
-#### 1.17
+#### 1.17.1
 
 * [**Erroring Entity Remover**](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)**:** Removes entities that would otherwise crash the server
 * [**Fabric-Discord-Link**](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link)**:** Link a Discord bot to the server
