@@ -68,7 +68,7 @@ description: >-
 * [**Servux**](https://www.curseforge.com/minecraft/mc-mods/servux)**:** Provides more information for client-sided mods
 * [**Smooth Boot**](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)**:** Faster server boot
 * [**Starlight**](https://github.com/Spottedleaf/Starlight)**:** Better light engine
-* \*\*\*\*[**World Specific View Distance**](https://modrinth.com/mod/worldspecificviewdistance)**:** Set a specific view distance per world
+* [**World Specific View Distance**](https://modrinth.com/mod/worldspecificviewdistance)**:** Set a specific view distance per world
 
 ### Paper/Purpur \(Plugins\)
 
