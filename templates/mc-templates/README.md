@@ -19,13 +19,15 @@ I did not make any of the plugins, mods, or server software in the templates, pl
 ### Downloading the template
 
 1. Go to the [Builds actions page](https://github.com/srnyx/mc-server-templates/actions/workflows/builds.yml) on the GitHub
-2. Click on the latest one (the one at the top), make sure it has a green circle (if it's orange/yellow, wait about a minute. If it's red, [contact srnyx](https://srnyx.xyz/discord))
-3. Scroll down to where it says `Artifacts`
-4. Click on the template you want and wait for it to finish downloading
-5. Find the downloaded ZIP on your computer and extract the files
+2. Click on the version you want to download from the left sidebar (ex: Purpur 1.16.5 Builds)
+3. Click on the latest workflow run (the one at the top), make sure it has a green circle (if it's orange/yellow, wait for it to finish. If it's red, [contact srnyx](https://srnyx.xyz/discord))
+4. Scroll down to where it says `Artifacts`
+5. Click on the artifact (ex: Purpur 1.16.5) to download it
+6. Find the downloaded ZIP on your computer and extract the files
 
-![Step 2](<../../.gitbook/assets/actions-latest.png>)
-![Step 3](<../../.gitbook/assets/actions-artifacts.png>)
+![Step 2](<../../.gitbook/assets/actions-types.png>)
+![Step 3](<../../.gitbook/assets/actions-types-latest.png>)
+![Step 4/5](<../../.gitbook/assets/actions-types-artifacts.png>)
 
 {% hint style="info" %}
 If you need help, please join my [Discord server](https://srnyx.xyz/discord) and open a ticket via #support.
