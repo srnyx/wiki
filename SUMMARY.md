@@ -11,9 +11,9 @@
 ## Modpack
 
 * [Quality of Life](modpack/qol/README.md)
-  * [1.16.5](modpack/oo/1.16.5.md)
-  * [1.17.1](modpack/oo/1.17.1.md)
-  * [1.18.1](modpack/oo/1.18.1.md)
+  * [1.16.5](modpack/qol/1.16.5.md)
+  * [1.17.1](modpack/qol/1.17.1.md)
+  * [1.18.1](modpack/qol/1.18.1.md)
 * [Only Optimized](modpack/oo/README.md)
   * [1.17.1](modpack/oo/1.17.1.md)
   * [1.18.1](modpack/oo/1.18.1.md)
