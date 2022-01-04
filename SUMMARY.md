@@ -8,13 +8,12 @@
 * [Minecraft Templates](templates/mc-templates/README.md)
   * [Sources](templates/mc-templates/sources.md)
 
-## Other Projects
+## Modpack
 
-* [Minecraft Modpack](other-projects/modpack.md)
-* [Emoji Servers](other-projects/emoji-servers.md)
-* [Servers](other-projects/servers.md)
-
-<!--## Links
-
-* [Website](https://srnyx.xyz)
-* [Discord](https://srnyx.xyz/discord)-->
+* [Quality of Life](modpack/qol/README.md)
+  * [1.16.5](modpack/oo/1.16.5.md)
+  * [1.17.1](modpack/oo/1.17.1.md)
+  * [1.18.1](modpack/oo/1.18.1.md)
+* [Only Optimized](modpack/oo/README.md)
+  * [1.17.1](modpack/oo/1.17.1.md)
+  * [1.18.1](modpack/oo/1.18.1.md)
