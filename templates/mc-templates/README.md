@@ -40,7 +40,7 @@ If you need help, please join my [Discord server](https://srnyx.xyz/discord) and
 
 1. Open the server's folder
 2. Run `start.bat`
-3. The server __will not__ start because you need to accept the EULA
+3. The server will _not_ start because you need to accept the EULA
 4. Open the `eula.txt` file in the server's folder and change `eula=false` to `eula=true`
 
 {% hint style="danger" %}
