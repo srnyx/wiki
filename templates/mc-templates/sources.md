@@ -7,19 +7,20 @@ description: >-
 # Sources
 
 ## Primary Sources
+This only includes sources directly shipped with the template(s).
 
 * [**Mods/Plugins**](sources.md#mods-plugins)
-* [**Fabric**](https://fabricmc.net/)
 * [**PaperMC**](https://papermc.io/)
-* [**Purpur**](https://purpur.pl3x.net/) 
-* [**server.jar**](https://www.minecraft.net/) \(Fabric only\)
+* [**Purpur**](https://purpur.pl3x.net/)
 
 ## Mods/Plugins
 
 * [**Fabric \(Mods\)**](sources.md#fabric-mods)
-  * [1.17](sources.md#1.17.1)
+  * [1.18.1](sources.md#1.18.1)
+  * [1.17.1](sources.md#1.17.1)
   * [1.16.5](sources.md#1.16.5)
 * [**Paper/Purpur \(Plugins\)**](sources.md#paper-purpur-plugins)
+  * [1.18.1](sources.md#1.18.1-1)
   * [1.17.1](sources.md#1.17.1-1)
   * [1.16.5](sources.md#1.16.5-1)
   * [1.8.8](sources.md#1.8.8)
