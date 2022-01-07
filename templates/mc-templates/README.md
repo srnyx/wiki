@@ -8,7 +8,7 @@ description: Find all the information about my Minecraft server templates
 
 * [x] Fabric 1.16.5
 * [x] Fabric 1.17.1
-* [ ] Fabric 1.18.1
+* [x] Fabric 1.18.1
 * [x] Paper 1.8.8
 * [x] Purpur 1.16.5
 * [x] Purpur 1.17.1
