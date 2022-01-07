@@ -12,7 +12,7 @@ description: Find all the information about my Minecraft server templates
 * [x] Paper 1.8.8
 * [x] Purpur 1.16.5
 * [x] Purpur 1.17.1
-* [ ] Purpur 1.18.1
+* [x] Purpur 1.18.1
 
 {% hint style="warning" %}
 I did not make any of the plugins, mods, or server software in the templates, please see [this page](sources.md) for sources.
