@@ -34,13 +34,13 @@ First off, you'll need to get yourself quite a bit of the following materials: Q
 
 Next, you'll need to make a **Special Crafting Table**. The recipe for it is below.
 
-![4 Iron Blocks, 4 Glass, 1 Diamond Block](../../.gitbook/assets/dsp_table.png)
+![4 Iron Blocks, 4 Glass, 1 Diamond Block](.gitbook/assets/Deep Storage Plus/Deep Storage Plus/dsp_table.png)
 
 A little expensive, but worth it! After you craft that, that'll be your new crafting table for all things **Deep Storage**.
 
 The next thing you'll need to make is a **Deep Storage Loader**. The recipe is shown below.
 
-![4 Iron, 1 Quarts](../../.gitbook/assets/dsp_loader.png)
+![4 Iron, 1 Quarts](.gitbook/assets/Deep Storage Plus/dsp_loader.png)
 
 Next, you'll want to get an **empty** double chest, and right-click the chest with the **Deep Storage Loader**.
 
@@ -48,7 +48,7 @@ Now, you need to make a **Storage Cell**. Storage cells are used to craft **Stor
 
 The recipe for the smallest storage cell is shown below.
 
-![4 Redstone, 4 Quartz, 1 Gold](../../.gitbook/assets/dsp_cell.png)
+![4 Redstone, 4 Quartz, 1 Gold](.gitbook/assets/Deep Storage Plus/dsp_cell.png)
 
 {% hint style="info" %}
 **Storage Cells** can be upgraded, run `/crapi book` to see the recipes for the rest of the **Storage Cells**.
@@ -56,7 +56,7 @@ The recipe for the smallest storage cell is shown below.
 
 Now, you have to make a container for your **Storage Cell**. The recipe for it is shown below.
 
-![2 Glass, 3 Redstone, 1 Storage Cell \(1k\), 3 Iron](../../.gitbook/assets/dsp_container.png)
+![2 Glass, 3 Redstone, 1 Storage Cell \(1k\), 3 Iron](.gitbook/assets/Deep Storage Plus/dsp_container.png)
 
 {% hint style="info" %}
 If you are wanting to craft a **Storage Container** for an upgraded **Storage Cell**, the recipe will be different, please see `/crapi book` for the recipes involving larger **Storage Containers**.
@@ -68,7 +68,7 @@ The final step is to insert the **Storage Container** into the Deep Storage Unit
 
 Your **Deep Storage Unit** should look like this, if it does, you're done:
 
-![](../../.gitbook/assets/dsp_unit.png)
+![](.gitbook/assets/Deep Storage Plus/dsp_unit.png)
 
 {% hint style="success" %}
 To know if it's working or not, try putting some blocks in \(netherrack, cobblestone, anything you have a lot of\)!
@@ -94,11 +94,11 @@ The Wireless Terminal will allow you to access Deep Storage Units from anywhere 
 
 The Wireless Terminal requires you to also craft a Wireless Receiver, see below for the Wireless Receiver recipe:
 
-![1 Eye of Ender, 1 Quartz, 2 Iron Ingots, 1 Diamond](../../.gitbook/assets/dsp_receiver.png)
+![1 Eye of Ender, 1 Quartz, 2 Iron Ingots, 1 Diamond](.gitbook/assets/Deep Storage Plus/dsp_receiver.png)
 
 The Wireless Terminal recipe is shown below \(you **need** to have 32 redstone blocks \[total of 64\]\):
 
-![1 Wireless Receiver, 64 Redstone Blocks, 1 Diamond Block, 2 Diamonds, 1 Quartz](../../.gitbook/assets/dsp_terminal.png)
+![1 Wireless Receiver, 64 Redstone Blocks, 1 Diamond Block, 2 Diamonds, 1 Quartz](.gitbook/assets/Deep Storage Plus/dsp_terminal.png)
 
 {% hint style="info" %}
 Only **VIPs** can use Wireless Terminals. Become a VIP [here](https://srnyx.xyz/donate)
