@@ -1,6 +1,8 @@
-# srnyxMC
+---
+description: This page will explain the Deep Storage plugin on srnyxMC.
+---
 
-This page will explain the Deep Storage plugin on srnyxMC.
+# srnyxMC
 
 ## Deep Storage Plus
 
