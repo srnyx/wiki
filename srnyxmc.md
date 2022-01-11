@@ -1,6 +1,8 @@
 # Deep Storage
 
-## What is it?
+This page will explain the Deep Storage plugin on srnyxMC.
+
+## Deep Storage Plus
 
 The Deep Storage plugin is a mod much like the popular mod **Applied Energistics**. It allows for mass storage in one single chest, along with allowing wireless access via the wireless control.
 
