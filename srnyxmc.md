@@ -1,5 +1,4 @@
 # Deep Storage
-
 This page will explain the Deep Storage plugin on srnyxMC.
 
 ## Deep Storage Plus
