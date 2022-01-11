@@ -1,18 +1,14 @@
 ---
-description: This page will explain the Deep Storage plugin on srnyxMC.
+description: This page will explain things about srnyxMC (mainly Deep Storage Plus).
 ---
 
 # srnyxMC
-
-## Deep Storage Plus
-
-The Deep Storage plugin is a mod much like the popular mod **Applied Energistics**. It allows for mass storage in one single chest, along with allowing wireless access via the wireless control.
 
 ## Resourcepack
 
 When joining the server you'll be asked to use a resourcepack, this is **not** required!
 
-It's only to give custom textures to the Deep Storage items. If you don't use the resourcepack though, you'll just see stone axes/shovels, but everything will still work.
+It's only to give custom textures to the Deep Storage (& Space) items/blocks. If you don't use the resourcepack though, you'll just see vanilla items, but everything will still work.
 
 **Pro Tip #1:** If you don't want to use the resourcepack and hate having the prompt show up, you can follow these steps:
 
@@ -30,6 +26,10 @@ Once you've downloaded it, move it into your resourcepacks folder and enable it.
 {% hint style="success" %}
 To see if it's working, do `/crapi book`, if you see the custom textures, you did it! If you see stone axes/shovels, please open a ticket in #support.
 {% endhint %}
+
+## Deep Storage Plus
+
+The Deep Storage plugin is a plugin much like the popular mod **Applied Energistics**. It allows for mass storage in one single (or double) chest, along with allowing wireless access via the wireless control.
 
 ## Getting Started
 
