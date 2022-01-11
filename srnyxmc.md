@@ -51,7 +51,7 @@ Now, you need to make a **Storage Cell**. Storage cells are used to craft **Stor
 
 The recipe for the smallest storage cell is shown below.
 
-![4 Redstone, 4 Quartz, 1 Gold](<.gitbook/assets/dsp\_cell (1).png>)
+![4 Redstone, 4 Quartz, 1 Gold](<.gitbook/assets/dsp\_cell.png>)
 
 {% hint style="info" %}
 **Storage Cells** can be upgraded, run `/crapi book` to see the recipes for the rest of the **Storage Cells**.
@@ -59,7 +59,7 @@ The recipe for the smallest storage cell is shown below.
 
 Now, you have to make a container for your **Storage Cell**. The recipe for it is shown below.
 
-![2 Glass, 3 Redstone, 1 Storage Cell (1k), 3 Iron](<.gitbook/assets/dsp\_container (2).png>)
+![2 Glass, 3 Redstone, 1 Storage Cell (1k), 3 Iron](<.gitbook/assets/dsp\_container.png>)
 
 {% hint style="info" %}
 If you are wanting to craft a **Storage Container** for an upgraded **Storage Cell**, the recipe will be different, please see `/crapi book` for the recipes involving larger **Storage Containers**.
