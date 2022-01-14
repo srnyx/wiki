@@ -28,7 +28,7 @@ I did not make any of the plugins, mods, or server software in the templates, pl
 6. Find the downloaded ZIP on your computer and extract the files
 7. To learn how to start your server, read [Starting your server](README.md#Starting-your-server)
 
-![Step 2](<../../.gitbook/assets/actions-types.png>)
+![Step 1/2](<../../.gitbook/assets/actions-types.png>)
 ![Step 3](<../../.gitbook/assets/actions-types-latest.png>)
 ![Step 4/5](<../../.gitbook/assets/actions-types-artifacts.png>)
 
