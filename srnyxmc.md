@@ -20,7 +20,7 @@ It's only to give custom textures to the Deep Storage (& Space) items/blocks. If
 **Pro Tip #2:** If you want to use the resourcepack but hate having it to unload/load it every time you join, you can simply download the resourcepack and have it enabled all the time.
 
 1. Follow the steps in **Pro Tip #1**
-2. Download the resourcepack [here](https://img.srnyx.xyz/r/srnyxMC.zip)
+2. Download the resourcepack [here](https://media.srnyx.xyz/r/srnyxMC_v1.zip)
 3. Move it into your resourcepacks folder and enable it.
 
 {% hint style="success" %}
