@@ -19,12 +19,24 @@ It's only to give custom textures to the Deep Storage (& Space) items/blocks. If
 
 **Pro Tip #2:** If you want to use the resourcepack but hate having it to unload/load it every time you join, you can simply download the resourcepack and have it enabled all the time.
 
-First, follow the steps in **Pro Tip #1**, then, download the resourcepack [here](https://img.srnyx.xyz/r/srnyxMC.zip)
-
-Once you've downloaded it, move it into your resourcepacks folder and enable it.
+1. Follow the steps in **Pro Tip #1**
+2. Download the resourcepack [here](https://img.srnyx.xyz/r/srnyxMC.zip)
+3. Move it into your resourcepacks folder and enable it.
 
 {% hint style="success" %}
 To see if it's working, do `/crapi book`, if you see the custom textures, you did it! If you see stone axes/shovels, please open a ticket in #support.
+{% endhint %}
+
+**Pro Tip #3:** If you wanna go super saiyan and see Custom Item Textures and Connected Texture Models then follow the steps below! *You don't need to do **Pro Tip #1** or **Pro Tip #2***
+
+1. Donwload and install [Fabric](https://fabricmc.net/use/installer)
+2. Download [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) and [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
+3. Move the files into `C:/Users/USER/AppData/Roaming/.minecraft/mods`
+
+Alternatively, you can just use [srnyx's Modpack](https://srnyx.xyz/modpack) (both OO and QOL will work)
+
+{% hint style="info" %}
+This process will be different for 3rd-party launchers (GDLauncher, MultiMC, etc...) and/or different mod loaders (Forge, Quilt, etc...).
 {% endhint %}
 
 ## Deep Storage Plus
