@@ -13,7 +13,7 @@ description: Find information about my Discord templates
 * [Zypher](https://link.srnyx.xyz/zypher)
 * [Dank Memer](https://dankmemer.lol)
 * [KDBot](https://top.gg/bot/414925323197612032)
-* [Helper](https://helper.wtf)\_\_
+* [Helper](https://helper.wtf)
 
 {% hint style="info" %}
 Join [my Discord server](https://srnyx.xyz/discord) and open a ticket \(\#support\) if you want your bot listed here.
