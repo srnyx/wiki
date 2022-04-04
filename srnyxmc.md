@@ -83,7 +83,7 @@ The final step is to insert the **Storage Container** into the Deep Storage Unit
 
 Your **Deep Storage Unit** should look like this, if it does, you're done:
 
-![](.gitbook/assets/dsp\_unit.png)
+![Deep Storage Unit](.gitbook/assets/dsp\_unit.png)
 
 {% hint style="success" %}
 To know if it's working or not, try putting some blocks in (netherrack, cobblestone, anything you have a lot of)!

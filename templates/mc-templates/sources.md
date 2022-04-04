@@ -20,6 +20,7 @@ This only includes sources directly shipped with the template(s).
   * [1.18.x](sources.md#1.18.x)
   * [1.17.x](sources.md#1.17.x)
   * [1.16.x](sources.md#1.16.x)
+
 * [**Paper/Purpur \(Plugins\)**](sources.md#paper-purpur-plugins)
   * [1.18.x](sources.md#1.18.x-1)
   * [1.17.x](sources.md#1.17.x-1)
@@ -100,7 +101,6 @@ This only includes sources directly shipped with the template(s).
 * [**WorldEditSelectionVisualizer**](https://www.spigotmc.org/resources/17311/)**:** See particles around the thing you are selecting with WorldEdit
 * [**WorldGuard Extra Flags**](https://www.spigotmc.org/resources/4823/)**:** Adds more flags to WorldGuard regions
 * [**WorldGuard**](https://dev.bukkit.org/projects/worldguard)**:** Create protected regions and specify certain flags
-
 
 #### 1.8.8
 
