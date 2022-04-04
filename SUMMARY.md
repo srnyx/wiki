@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Home](README.md)
-
 * [srnyxMC](srnyxmc.md)
 
 ## Templates
