@@ -4,7 +4,7 @@ description: Find all the information about my Minecraft server templates
 
 # Minecraft Templates
 
-### Templates
+## Templates
 
 * [x] Fabric 1.16.5
 * [x] Fabric 1.17.1
@@ -18,7 +18,7 @@ description: Find all the information about my Minecraft server templates
 I did not make any of the plugins, mods, or server software in the templates, please see [this page](sources.md) for sources.
 {% endhint %}
 
-### Downloading the template
+## Downloading the template
 
 1. Go to the [Actions page](https://github.com/srnyx/mc-server-templates/actions) on the GitHub
 2. Click on the version you want to download from the left sidebar (ex: `Purpur 1.16.5 Builds`)
@@ -36,7 +36,7 @@ I did not make any of the plugins, mods, or server software in the templates, pl
 If you need help, please join my [Discord server](https://srnyx.xyz/discord) and open a ticket via #support.
 {% endhint %}
 
-### Starting your server
+## Starting your server
 
 1. Open the server's folder
 2. Run `start.bat`

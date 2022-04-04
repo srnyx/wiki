@@ -16,14 +16,15 @@ This only includes sources directly shipped with the template(s).
 ## Mods/Plugins
 
 * [**Fabric \(Mods\)**](sources.md#fabric-mods)
-  * [1.18.1](sources.md#1.18.1)
-  * [1.17.1](sources.md#1.17.1)
-  * [1.16.5](sources.md#1.16.5)
+  * [1.18.x](sources.md#1.18.x)
+  * [1.17.x](sources.md#1.17.x)
+  * [1.16.x](sources.md#1.16.x)
+
 * [**Paper/Purpur \(Plugins\)**](sources.md#paper-purpur-plugins)
-  * [1.18.1](sources.md#1.18.1-1)
-  * [1.17.1](sources.md#1.17.1-1)
-  * [1.16.5](sources.md#1.16.5-1)
-  * [1.8.8](sources.md#1.8.8)
+  * [1.18.x](sources.md#1.18.x-1)
+  * [1.17.x](sources.md#1.17.x-1)
+  * [1.16.x](sources.md#1.16.x-1)
+  * [1.8.x](sources.md#1.8.x)
 
 ### Fabric \(Mods\)
 

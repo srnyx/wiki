@@ -4,7 +4,7 @@ description: Find information about my Discord templates
 
 # Discord Templates
 
-### Recommended bots
+## Recommended bots
 
 * [Atlas](https://atlas.bot)
 * [Carl-bot](https://carl.gg)
@@ -19,7 +19,7 @@ description: Find information about my Discord templates
 Join [my Discord server](https://srnyx.xyz/discord) and open a ticket \(\#support\) if you want your bot listed here.
 {% endhint %}
 
-### **Support me!**
+## Support me!
 
 * [Website](https://srnyx.xyz)
 * [Donate](https://srnyx.xyz/donate)
@@ -28,4 +28,3 @@ Join [my Discord server](https://srnyx.xyz/discord) and open a ticket \(\#suppor
 {% hint style="info" %}
 If you need help, please join [my Discord server](https://srnyx.xyz/discord) and open a ticket via \#support.
 {% endhint %}
-
