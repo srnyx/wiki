@@ -14,6 +14,7 @@
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)                         |   ✔️   |   ✔️   | Optifine parity, fast leaves                    |
 | [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric)            |   ✔️   |   ✔️   | Prevents rendering particles you can't see      |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)   |   ✔️   |   ✔️   | Optifine parity, custom entity models           |
+| [Debugify](https://modrinth.com/mod/debugify) 												  |   ❌   |   ✔️   | Fixes bugs in Minecraft                         |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)                         |   ✔️   |   ✔️   | Lowers FPS when Minecraft is minimized          |
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) |   ✔️   |   ✔️   | Improves block entities (chests, signs, etc...) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)                    |   ✔️   |   ✔️   | Prevents rendering entities you can't see       |
@@ -93,9 +94,15 @@
 {% endtab %}
 
 {% tab title="OO" %}
-| Name                                                                         | 1.17.x | 1.18.x | Description              |
-| ---------------------------------------------------------------------------- | :----: | :----: | ------------------------ |
-| [Cloth API](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)    |   ✔️   |   ✔️   | API for other mods       |
-| [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) |   ✔️   |   ✔️   | Optifine parity, zooming |
+| Name                                                                         								| 1.17.x 	| 1.18.x 	| Description              			|
+|---------------------------------------------------------------------------- 								|:----: 	|:----: 	|------------------------ 			|
+| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) 					|   ❌   	|   ✔️   	| Improves advancement performance  |
+| [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)	|   ❌   	|   ✔️   	| Improves render distance FPS		|
+| [Clean Logs](https://modrinth.com/mod/clean-logs)                                                     	|   ❌   	|   ✔️   	| Removes spam messages from logs   |
+| [Cloth API](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) 								|   ✔️ 		|   ✔️   	| API for other mods       			|
+| [Hydrogen](https://modrinth.com/mod/hydrogen)																|   ✔️ 		|   ❌   	| API for other mods       			|
+| [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) 								|   ✔️    	|   ✔️   	| Optifine parity, zooming 			|
+| [Sodium Shadowy Path Blocks](https://www.curseforge.com/minecraft/mc-mods/sodium-shadowy-path-blocks) 	|   ❌   	|   ✔️   	| Adds back shadows for path blocks |
+| [Spark](https://modrinth.com/mod/spark)                                      								|   ❌   	|   ✔️   	| Lag/performance profiler  		|
 {% endtab %}
 {% endtabs %}
