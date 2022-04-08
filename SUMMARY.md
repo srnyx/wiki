@@ -12,8 +12,6 @@
 
 ## Modpack
 
-* [Modpack](modpack/README.md)
-
+* [Home](modpack/home.md)
 * [Mods](modpack/mods.md)
-
 * [Changed Options](modpack/changed-options.md)
