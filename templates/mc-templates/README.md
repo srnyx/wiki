@@ -8,11 +8,11 @@ description: Find all the information about my Minecraft server templates
 
 * [x] Fabric 1.16.5
 * [x] Fabric 1.17.1
-* [x] Fabric 1.18.1
+* [ ] Fabric 1.18.2
 * [x] Paper 1.8.8
 * [x] Purpur 1.16.5
 * [x] Purpur 1.17.1
-* [x] Purpur 1.18.1
+* [x] Purpur 1.18.2
 
 {% hint style="warning" %}
 I did not make any of the plugins, mods, or server software in the templates, please see [this page](sources.md) for sources.
@@ -42,7 +42,7 @@ This first one makes use of the GitHub workflows/actions that I've set up:
 
 This second method uses a custom batch script that I've created:
 
-1. Download `mc-server-templates.bat` from https://github.com/srnyx/mc-server-templates
+1. Download `mc-server-templates.bat` from [the repository](https://github.com/srnyx/mc-server-templates)
 2. Run the file
 3. Input software and version of the template you want when directed
 4. You're done! To learn how to start your server, read [Starting your server](README.md#starting-your-server)
