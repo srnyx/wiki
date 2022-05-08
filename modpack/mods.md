@@ -11,7 +11,8 @@
 | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)                           | ✔️ | ✔️ | Optifine partiy, custom colors                  |
 | [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)                   | ✔️ | ✔️ | API for other mods                              |
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                           | ✔️ | ✔️ | Optifine parity, connected textures             |
-| [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)                         | ✔️ | ✔️ | Optifine parity, fast leaves                    |
+| [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)                         | ✔️ | ❌ | Optifine parity, fast leaves                    |
+| [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)               | ❌ | ✔️ | Optifine parity, faster leaves                  |
 | [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric)            | ✔️ | ✔️ | Prevents rendering particles you can't see      |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)   | ✔️ | ✔️ | Optifine parity, custom entity models           |
 | [Debugify](https://modrinth.com/mod/debugify)                                                   | ❌ | ✔️ | Fixes bugs in Minecraft                         |
@@ -28,6 +29,7 @@
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)             | ✔️ | ✔️ | Optifine parity, dynamic lighting               |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)                                 | ✔️ | ✔️ | Faster startup                                  |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                                 | ✔️ | ✔️ | General optimization                            |
+| [Main Menu Credits](https://www.curseforge.com/minecraft/mc-mods/main-menu-credits)             | ❌ | ✔️ | Adds modpack credits to the main menu           |
 | [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)                                | ✔️ | ✔️ | Adds a menu to list and configure mods          |
 | [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)                      | ✔️ | ✔️ | Improves screenshots                            |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)           | ✔️ | ✔️ | Keeps Minecraft open when it crashes            |
@@ -69,19 +71,20 @@
 | [Inspecio](https://modrinth.com/mod/inspecio)                                                         | ✔️ | ✔️ | Shows more info in tooltips                      |
 | [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)                           | ✔️ | ✔️ | Adds more inventory controls and sorting         |
 | [Isometric Renders](https://modrinth.com/mod/isometric-renders)                                       | ✔️ | ✔️ | Render parts of your game nicely                 |
-| [Loading Timer](https://modrinth.com/mod/loading-timer)                                               | ✔️ | ✔️ | Provides game loading time on start              |
+| [Loading Timer](https://modrinth.com/mod/loading-timer)                                               | ✔️ | ❌ | Provides game loading time on start              |
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)                                       | ✔️ | ✔️ | Library for other mods                           |
 | [microDurability](https://www.curseforge.com/minecraft/mc-mods/microdurability)                       | ✔️ | ✔️ | Simplistic armor durability bars                 |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)                                       | ✔️ | ✔️ | Allows you to add a helpful HUD                  |
 | [NoChatLag](https://modrinth.com/mod/nochatlag)                                                       | ✔️ | ✔️ | Removes minor lag when chatting                  |
 | [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)                                           | ✔️ | ✔️ | Removes fog                                      |
 | [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)           | ✔️ | ✔️ | Adds more animations                             |
+| [OAuth](https://www.curseforge.com/minecraft/mc-mods/oauth-fabric)                                    | ✔️ | ✔️ | Allows you to relog when you get invalid session |
 | [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                               | ✔️ | ✔️ | Adds particle/mob physics                        |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)                                     | ✔️ | ✔️ | Improves footstep sounds                         |
 | [ResPackAutoUpdater](https://www.curseforge.com/minecraft/mc-mods/respackautoupdater)                 | ✔️ | ✔️ | Auto-updates compatible resourcepacks            |
 | [Respackopts](https://modrinth.com/mod/respackopts)                                                   | ✔️ | ✔️ | Adds options for compatible resourcepacks        |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)                                       | ✔️ | ✔️ | Adds proximity voice chat for compatible servers |
-| ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)   | ✔️ | ✔️ | Improves some GUI stuff                          |
+| ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)   | ✔️ | ❌ | Improves some GUI stuff                          |
 | [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)                                           | ✔️ | ✔️ | Adds an item swapping animation                  |
 | [Sneak Hold](https://github.com/emilcarr/fabric-sneakhold)                                            | ✔️ | ✔️ | Adds a new keybind to toggle sneak               |
 | [Sodium Shadowy Path Blocks](https://www.curseforge.com/minecraft/mc-mods/sodium-shadowy-path-blocks) | ✔️ | ✔️ | Adds back shadows for path blocks                |
