@@ -4,17 +4,7 @@ description: >-
   It'll also include a list of all the mods/plugins being used.
 ---
 
-# Sources
-
-## Primary Sources
-
-This only includes sources directly shipped with the template(s).
-
-* [**Mods/Plugins**](sources.md#mods-plugins)
-* [**PaperMC**](https://papermc.io/)
-* [**Purpur**](https://purpur.pl3x.net/)
-
-## Mods/Plugins
+# Mods/Plugins
 
 * [**Fabric \(Mods\)**](sources.md#fabric-mods)
   * [1.18.x](sources.md#1.18.x)
@@ -27,9 +17,9 @@ This only includes sources directly shipped with the template(s).
   * [1.16.x](sources.md#1.16.x-1)
   * [1.8.x](sources.md#1.8.x)
 
-### Fabric \(Mods\)
+## Fabric \(Mods\)
 
-#### 1.17.1
+### 1.17.1
 
 * [**Erroring Entity Remover**](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)**:** Removes entities that would otherwise crash the server
 * [**Fabric-Discord-Link**](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link)**:** Link a Discord bot to the server
@@ -45,7 +35,7 @@ This only includes sources directly shipped with the template(s).
 * [**Smooth Boot**](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)**:** Faster server boot
 * [**Starlight**](https://github.com/Spottedleaf/Starlight)**:** Better light engine
 
-#### 1.16.5
+### 1.16.5
 
 * [**Erroring Entity Remover**](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)**:** Removes entities that would otherwise crash the server
 * [**Fabric-Discord-Link**](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link)**:** Link a Discord bot to the server
@@ -73,9 +63,9 @@ This only includes sources directly shipped with the template(s).
 * [**Starlight**](https://github.com/Spottedleaf/Starlight)**:** Better light engine
 * [**World Specific View Distance**](https://modrinth.com/mod/worldspecificviewdistance)**:** Set a specific view distance per world
 
-### Paper/Purpur \(Plugins\)
+## Paper/Purpur \(Plugins\)
 
-#### 1.16.5
+### 1.16.5
 
 * [**Console Spam Fix**](https://www.spigotmc.org/resources/console-spam-fix.18410/)**:** Removes irrelevant console messages
 * [**CoreProtect**](https://www.spigotmc.org/resources/8631/)**:** Log block/entity changes and rollback griefing
@@ -102,7 +92,7 @@ This only includes sources directly shipped with the template(s).
 * [**WorldGuard Extra Flags**](https://www.spigotmc.org/resources/4823/)**:** Adds more flags to WorldGuard regions
 * [**WorldGuard**](https://dev.bukkit.org/projects/worldguard)**:** Create protected regions and specify certain flags
 
-#### 1.8.8
+### 1.8.8
 
 * [**Console Spam Fix**](https://www.spigotmc.org/resources/console-spam-fix.18410/)**:** Removes irrelevant console messages.
 * [**DiscordSRV**](https://www.spigotmc.org/resources/18494/)**:** Link the Minecraft server to a Discord server.
