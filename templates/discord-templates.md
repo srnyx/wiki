@@ -6,14 +6,14 @@ description: Find information about my Discord templates
 
 ## Recommended bots
 
-* [Atlas](https://atlas.bot)
-* [Carl-bot](https://carl.gg)
-* [Hydra](https://hydra.bot)
-* [Santa Lunar](https://forum.lunarisx.com)
-* [Zypher](https://link.srnyx.xyz/zypher)
-* [Dank Memer](https://dankmemer.lol)
-* [KDBot](https://top.gg/bot/414925323197612032)
-* [Helper](https://helper.wtf)
+1. [Carl-bot](https://carl.gg)
+2. [Atlas](https://atlas.bot)
+3. [Helper](https://helper.wtf)
+4. [Hydra](https://hydra.bot)
+5. [Dasu](https://dasu.gg)
+6. [KDBot](https://srnyx.xyz/kd)
+7. [Zypher](https://srnyx.xyz/zypher)
+8. [Dank Memer](https://dankmemer.lol)
 
 {% hint style="info" %}
 Join [my Discord server](https://srnyx.xyz/discord) and open a ticket \(\#support\) if you want your bot listed here.
