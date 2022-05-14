@@ -8,7 +8,7 @@
 * [Discord Templates](templates/discord-templates.md)
 
 * [Minecraft Templates](templates/mc-templates/README.md)
-  * [Sources](templates/mc-templates/sources.md)
+  * [Mods/Plugins](templates/mc-templates/mods-plugins.md)
 
 ## Modpack
 
