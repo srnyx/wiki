@@ -56,10 +56,6 @@ This first one makes use of the GitHub workflows/actions that I've set up:
 
 <img src="../../.gitbook/assets/actions-types-artifacts.png" alt="Step 3/3">
 
- 
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
 </div>
 
 ### Second Method
