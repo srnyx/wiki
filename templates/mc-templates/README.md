@@ -44,7 +44,7 @@ This first one makes use of the GitHub workflows/actions that I've set up:
 6. Find the downloaded ZIP on your computer and extract the files
 7. You're done! To learn how to start your server, read [Starting your server](./#starting-your-server)
 
-![Step 1/2](../../.gitbook/assets/actions-types.png) ![Step 3](../../.gitbook/assets/actions-types-latest.png) ![Step 4/5](../../.gitbook/assets/actions-types-artifacts.png)
+![Step 1/3](../../.gitbook/assets/actions-types.png) ![Step 2/3](../../.gitbook/assets/actions-types-latest.png) ![Step 3/3](../../.gitbook/assets/actions-types-artifacts.png)
 
 ### Second Method
 
