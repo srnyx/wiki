@@ -6,18 +6,24 @@ description: >-
 
 # Mods/Plugins
 
-* [**Fabric \(Mods\)**](sources.md#fabric-mods)
-  * [1.18.x](sources.md#1.18.x)
-  * [1.17.x](sources.md#1.17.x)
-  * [1.16.x](sources.md#1.16.x)
+* [**Fabric (Mods)**](mods-plugins.md#fabric-mods)
+  * [1.19.2](mods-plugins.md#1.19.2)
+  * [1.18.2](mods-plugins.md#1.18.2)
+  * [1.17.1](mods-plugins.md#1.17.1)
+  * [1.16.5](mods-plugins.md#1.16.5)
+* ****[**Purpur (Plugins)**](mods-plugins.md#purpur-plugins)****
+  * [1.19.2](mods-plugins.md#1.19.2-1)
+  * [1.18.2](mods-plugins.md#1.18.2-1)
+  * [1.17.1](mods-plugins.md#1.17.1-1)
+  * [1.16.5](mods-plugins.md#1.16.5-1)
+* ****[**Paper (Plugins)**](mods-plugins.md#undefined)****
+  * [1.8.8](mods-plugins.md#1.8.8)
 
-* [**Paper/Purpur \(Plugins\)**](sources.md#paper-purpur-plugins)
-  * [1.18.x](sources.md#1.18.x-1)
-  * [1.17.x](sources.md#1.17.x-1)
-  * [1.16.x](sources.md#1.16.x-1)
-  * [1.8.x](sources.md#1.8.x)
+## Fabric (Mods)
 
-## Fabric \(Mods\)
+### 1.19.2
+
+### 1.18.2
 
 ### 1.17.1
 
@@ -56,14 +62,20 @@ description: >-
 * [**MixinTrace**](https://www.curseforge.com/minecraft/mc-mods/mixintrace)**:** More crash log details
 * [**Not Enough Crashes**](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)**:** More crash log details
 * [**ModUpdater**](https://www.curseforge.com/minecraft/mc-mods/modupdater)**:** Alerts of new opted-in mod updates
-* [**Overworld Two**](https://www.curseforge.com/minecraft/mc-mods/overworld-two)**:** Optimized world generation \(no noticeable terrain differences\)
+* [**Overworld Two**](https://www.curseforge.com/minecraft/mc-mods/overworld-two)**:** Optimized world generation (no noticeable terrain differences)
 * [**RandomPatches**](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)**:** Patches random things
 * [**Servux**](https://www.curseforge.com/minecraft/mc-mods/servux)**:** Provides more information for client-sided mods
 * [**Smooth Boot**](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)**:** Faster server boot
 * [**Starlight**](https://github.com/Spottedleaf/Starlight)**:** Better light engine
 * [**World Specific View Distance**](https://modrinth.com/mod/worldspecificviewdistance)**:** Set a specific view distance per world
 
-## Paper/Purpur \(Plugins\)
+## Purpur (Plugins)
+
+### 1.19.2
+
+### 1.18.2
+
+### 1.17.1
 
 ### 1.16.5
 
@@ -92,6 +104,8 @@ description: >-
 * [**WorldGuard Extra Flags**](https://www.spigotmc.org/resources/4823/)**:** Adds more flags to WorldGuard regions
 * [**WorldGuard**](https://dev.bukkit.org/projects/worldguard)**:** Create protected regions and specify certain flags
 
+## Paper (Plugins)
+
 ### 1.8.8
 
 * [**Console Spam Fix**](https://www.spigotmc.org/resources/console-spam-fix.18410/)**:** Removes irrelevant console messages.
@@ -107,7 +121,7 @@ description: >-
 * [**PluginManager**](https://www.spigotmc.org/resources/69061/)**:** Manage plugins, useful if another plugin doesn't have a reload command.
 * [**ProtocolLib**](https://www.spigotmc.org/resources/1997/)**:** A library of protocols.
 * [**Vault**](https://www.spigotmc.org/resources/34315/)**:** API for economy, prefixes, and a ton of other things.
-* [**ViaVersion**](https://www.spigotmc.org/resources/19254/)**:** Allows for versions higher than 1.8.8 \(1.8.9+\) to join the server \(this includes 1.16.5\).
+* [**ViaVersion**](https://www.spigotmc.org/resources/19254/)**:** Allows for versions higher than 1.8.8 (1.8.9+) to join the server (this includes 1.16.5).
 * [**WorldEditSelectionVisualizer**](https://www.spigotmc.org/resources/17311/)**:** See particles around the thing you are selecting with WorldEdit.
 * [**WorldGuard Extra Flags**](https://www.spigotmc.org/resources/4823/)**:** Adds more flags to WorldGuard regions.
 * [**WorldMania**](https://www.spigotmc.org/resources/83764/)**:** World management plugins similar to Multiverse.

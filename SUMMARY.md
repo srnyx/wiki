@@ -1,12 +1,10 @@
 # Table of contents
 
 * [Home](README.md)
-* [srnyxMC](srnyxmc.md)
 
 ## Templates
 
 * [Discord Templates](templates/discord-templates.md)
-
 * [Minecraft Templates](templates/mc-templates/README.md)
   * [Mods/Plugins](templates/mc-templates/mods-plugins.md)
 
