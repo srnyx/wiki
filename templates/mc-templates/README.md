@@ -11,7 +11,7 @@ description: Find all the information about my Minecraft server templates
 * [x] Fabric 1.16.5
 * [x] Fabric 1.17.1
 * [x] Fabric 1.18.2
-* [x] Fabric 1.19.2
+* [x] Fabric 1.19.4
 
 #### Paper
 
@@ -23,6 +23,7 @@ description: Find all the information about my Minecraft server templates
 * [x] Purpur 1.17.1
 * [x] Purpur 1.18.2
 * [x] Purpur 1.19.2
+* [ ] Purpur 1.19.4
 
 {% hint style="warning" %}
 I did not make any of the plugins, mods, or server software in the templates, please see [this page](broken-reference) for sources.
