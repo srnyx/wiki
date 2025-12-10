@@ -32,7 +32,7 @@ description: >-
 * [**PlayerAbilityLib**](https://www.curseforge.com/minecraft/mc-mods/pal)**:** Dependency
 * [**Anonymize**](https://github.com/NucleoidMC/anonymize)**:** Hide player IPs from logs
 * [**Carpet Extra**](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)**:** More optimization flags
-* [**Carpet TIS Addition**](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)**:** Event more optimization flags
+* [**Carpet TIS Addition**](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)**:** Even more optimization flags
 * [**Fabric API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api)**:** Dependency for most mods
 * [**Carpet**](https://www.curseforge.com/minecraft/mc-mods/carpet)**:** Optimization flags
 * [**Fabric Language Kotlin**](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)**:** Dependency
